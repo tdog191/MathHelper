@@ -1,0 +1,55 @@
+Bucket List
+1. App layout (partially group decision)
+2. search through text in an image to find keywords/phrases
+3. store information and give hints based on what was found in text
+4. give hints to user (one hint at a time?)
+5. Require user to have camera to download app
+6. ask permission for the camera
+7. Take picture (save the picture?)
+8. set default textbook (book is not required)
+9. allow user to input a textbook and subject
+10. recognize formulas to use 
+11. set a hint level (low, med, high) (discuss more about this)
+12. save a textbook entered
+13. load previous textbook 
+14. app icon (partially group decision)
+15. app name (group decision)
+16. about us page (group decision)
+17. ability to share this app with others (through social media)
+18. pay to remove ads
+
+
+* Groups
+    * camera
+        * front end
+        * back end
+    * user interface
+        * front end 
+        * back end
+
+* Camera
+    * Front End
+        * Take picture (save the picture?)
+        * ask permission for the camera
+    * Back End
+        * search through text in an image to find keywords/phrases
+        * recognize formulas to use
+        * store information and give hints based on what was found in text
+
+
+* User Interface
+    * Front End
+        * App layout (partially group decision)
+        * Require user to have camera to download app
+        * allow user to input a textbook and subject
+        * app icon (partially group decision)
+        * app name (group decision)
+        * about us page (group decision)
+        * ability to share this app with others (through social media)
+        * pay to remove ads
+    * Back End
+        * give hints to user (one hint at a time?)
+        * set default textbook (book is not required)
+        * set a hint level (low, med, high) (discuss more about this)
+        * save a textbook entered
+        * load previous textbook 
